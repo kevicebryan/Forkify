@@ -2,7 +2,9 @@
 
 ##### Recipe app with customer recipe upload 🍕
 
-##### View & Search through Existing Recipes, Ingredients are adjusted to servings, or upload your own!
+##### View & Search through Existing Recipes, or upload your own!
+
+##### ingredients are customed to servings + bookmarking feature to keep track of ur fav recipes 😁
 
 [🔗 You can access the project here!](https://kevinbryan-forkify.netlify.app/)
 
